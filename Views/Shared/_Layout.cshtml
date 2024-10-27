@@ -10,14 +10,85 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
+
+        <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #b9b5ff;" >
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Sistema de Gestion escolar </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+
+
+<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle nav-link text-dark " href="#" id="estudiantesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Estudiantes
+                            </a>
+                            
+                            <ul class="dropdown-menu" aria-labelledby="estudiantesDropdown">
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Estudiante" asp-action="Index">Estudiantes</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Tutor" asp-action="Index">Tutores</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Matricula" asp-action="Index">Matrículas</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Factura" asp-action="Index">Facturas</a></li>
+                            </ul>
+                        </li>
+
+
+
+                      <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle nav-link text-dark " href="#" id="clasesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Clases y Evaluaciones
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="clasesDropdown">
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Profesor" asp-action="Index">Profesores</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Clase" asp-action="Index">Clases</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Nota" asp-action="Index">Notas</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="BoletinDeCalificacion" asp-action="Index">Boletines</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Periodo" asp-action="Index">Periodo</a></li>
+                            </ul>
+                        </li>
+
+
+
+
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle nav-link text-dark " href="#" id="estructuraDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Estructura Educativa
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="estructuraDropdown">
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Materia" asp-action="Index">Materias</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Grado" asp-action="Index">Grados</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Aula" asp-action="Index">Aulas</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="AñoEscolar" asp-action="Index">Año Escolar</a></li>
+                            </ul>
+                             
+                        </li>
+
+
+      </ul>
 
 <partial name="_LoginPartial" />
 
 
-<!-- 
+    </div>
+  </div>
+</nav>
 
+
+
+
+
+<!-- 
+<partial name="_LoginPartial" />
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Escolar_net</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -36,51 +107,25 @@
 
 
                     </ul>
+      orale 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -->
-            <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="estudiantesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Estudiantes
-                            </a>
-                            
-                            <ul class="dropdown-menu" aria-labelledby="estudiantesDropdown">
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Estudiante" asp-action="Index">Estudiantes</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Tutor" asp-action="Index">Tutores</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Matricula" asp-action="Index">Matrículas</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Factura" asp-action="Index">Facturas</a></li>
-                            </ul>
-                        </li>
-
-                        <!-- Botón desplegable para Entidades relacionadas con Clases y Evaluaciones -->
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="clasesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Clases y Evaluaciones
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="clasesDropdown">
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Profesor" asp-action="Index">Profesores</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Clase" asp-action="Index">Clases</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Nota" asp-action="Index">Notas</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="BoletinDeCalificacion" asp-action="Index">Boletines</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Periodo" asp-action="Index">Periodo</a></li>
-                            </ul>
-                        </li>
-
-                        <!-- Botón desplegable para Entidades relacionadas con la Estructura Educativa -->
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="estructuraDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Estructura Educativa
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="estructuraDropdown">
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Materia" asp-action="Index">Materias</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Grado" asp-action="Index">Grados</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Aula" asp-action="Index">Aulas</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="AñoEscolar" asp-action="Index">Año Escolar</a></li>
-                            </ul>
-                             
-                        </li>
-
-                </div>
-            </div>
-        </nav>
+           
+        
     </header>
     <div class="container">
         <main role="main" class="pb-3">

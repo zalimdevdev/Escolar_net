@@ -34,6 +34,8 @@ namespace Escolar_net.Controllers
             }
 
             var boletinDeCalificacion = await _context.BoletinDeCalificacions
+                .Include(b => b.Notas) // Incluye las notas
+                .ThenInclude(n => n.Materia) 
                 .Include(b => b.Estudiante)
                 .Include(b => b.Periodo)
                 .FirstOrDefaultAsync(m => m.Id == id);

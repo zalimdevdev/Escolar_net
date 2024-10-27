@@ -11,6 +11,8 @@ public class Estudiante
     public string? Telefono { get; set; }
     public string? Email { get; set; }
 
+    
+
     // Relación con Tutor
    // public int? TutorId { get; set; }
    // public Tutor? Tutor { get; set; }

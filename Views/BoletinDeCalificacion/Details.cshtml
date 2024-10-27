@@ -20,13 +20,13 @@
             @Html.DisplayNameFor(model => model.Estudiante)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Estudiante.Id)
+            @Html.DisplayFor(model => model.Estudiante.Nombre)
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Periodo)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Periodo.Id)
+            @Html.DisplayFor(model => model.Periodo.Nombre)
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.FechaEmision)
@@ -34,6 +34,32 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.FechaEmision)
         </dd>
+        
+
+<div class="card">
+    <h5 class="card-header">Lista de notas</h5>
+    <div class="card-body">
+        @if (Model.Notas != null && Model.Notas.Any())
+        {
+            <ul class="list-group">
+                @foreach (var nota in Model.Notas)
+                {
+                    <li class="list-group-item">
+                        <strong>Materia:</strong> @nota.Materia?.Nombre <br />
+                        <strong>Calificación:</strong> @nota.Valor?.ToString("F2")
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>No hay notas asociadas a este boletín.</p>
+        }
+    </div>
+</div>
+
+
+
     </dl>
 </div>
 <div>

@@ -8275,19 +8275,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\09\\.nuget\\packages\\": {}
+    "C:\\Users\\Pacheco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\09\\Desktop\\zalim\\Cursos\\remoto\\Escolar_net\\Escolar_net.csproj",
+      "projectUniqueName": "D:\\Zalim Cursos\\Zalim Unan 2024\\Semestre II\\real\\Escolar_net\\Escolar_net.csproj",
       "projectName": "Escolar_net",
-      "projectPath": "C:\\Users\\09\\Desktop\\zalim\\Cursos\\remoto\\Escolar_net\\Escolar_net.csproj",
-      "packagesPath": "C:\\Users\\09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\09\\Desktop\\zalim\\Cursos\\remoto\\Escolar_net\\obj\\",
+      "projectPath": "D:\\Zalim Cursos\\Zalim Unan 2024\\Semestre II\\real\\Escolar_net\\Escolar_net.csproj",
+      "packagesPath": "C:\\Users\\Pacheco\\.nuget\\packages\\",
+      "outputPath": "D:\\Zalim Cursos\\Zalim Unan 2024\\Semestre II\\real\\Escolar_net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\09\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

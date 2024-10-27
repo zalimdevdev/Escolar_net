@@ -17,483 +17,483 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Escolar_net
 build_property.RootNamespace = Escolar_net
-build_property.ProjectDir = C:\Users\09\Desktop\zalim\Cursos\remoto\Escolar_net\
+build_property.ProjectDir = D:\Zalim Cursos\Zalim Unan 2024\Semestre II\real\Escolar_net\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\09\Desktop\zalim\Cursos\remoto\Escolar_net
+build_property.MSBuildProjectDirectory = D:\Zalim Cursos\Zalim Unan 2024\Semestre II\real\Escolar_net
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Lockout.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/Error.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Aula/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Aula/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVsYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Aula/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Aula/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVsYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Aula/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Aula/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVsYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Aula/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Aula/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVsYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Aula/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Aula/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVsYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/AñoEscolar/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/AñoEscolar/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQcOxb0VzY29sYXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/AñoEscolar/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/AñoEscolar/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQcOxb0VzY29sYXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/AñoEscolar/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/AñoEscolar/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQcOxb0VzY29sYXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/AñoEscolar/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/AñoEscolar/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQcOxb0VzY29sYXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/AñoEscolar/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/AñoEscolar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQcOxb0VzY29sYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/BoletinDeCalificacion/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/BoletinDeCalificacion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRpbkRlQ2FsaWZpY2FjaW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/BoletinDeCalificacion/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/BoletinDeCalificacion/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRpbkRlQ2FsaWZpY2FjaW9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/BoletinDeCalificacion/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/BoletinDeCalificacion/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRpbkRlQ2FsaWZpY2FjaW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/BoletinDeCalificacion/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/BoletinDeCalificacion/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRpbkRlQ2FsaWZpY2FjaW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/BoletinDeCalificacion/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/BoletinDeCalificacion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRpbkRlQ2FsaWZpY2FjaW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Clase/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Clase/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Clase/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Clase/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Clase/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Clase/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Clase/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Clase/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Clase/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Clase/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Estudiante/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Estudiante/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Estudiante/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Estudiante/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Estudiante/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Estudiante/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Estudiante/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Estudiante/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Estudiante/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Estudiante/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Factura/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Factura/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Factura/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Factura/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Factura/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Factura/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Factura/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Factura/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Factura/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Factura/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Grado/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Grado/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Grado/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Grado/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Grado/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Grado/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Grado/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Grado/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Grado/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Grado/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Home/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Home/Privacy.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Materia/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Materia/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Materia/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Materia/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Materia/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Materia/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Materia/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Materia/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Materia/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Materia/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Matricula/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Matricula/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Matricula/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Matricula/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Matricula/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Matricula/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Matricula/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Matricula/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Matricula/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Matricula/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Nota/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Nota/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Nota/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Nota/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Nota/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Nota/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Nota/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Nota/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Nota/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Nota/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Periodo/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Periodo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyaW9kb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Periodo/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Periodo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyaW9kb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Periodo/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Periodo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyaW9kb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Periodo/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Periodo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyaW9kb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Periodo/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Periodo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyaW9kb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Profesor/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Profesor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Profesor/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Profesor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Profesor/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Profesor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Profesor/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Profesor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Profesor/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Profesor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Shared/Error.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Shared/_LoginPartial.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tests/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tests/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tests/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tests/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tests/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tests/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tests/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tutor/Create.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tutor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tutor/Delete.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tutor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tutor/Details.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tutor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tutor/Edit.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tutor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Tutor/Index.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Tutor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/_ViewImports.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/_ViewStart.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/09/Desktop/zalim/Cursos/remoto/Escolar_net/Views/Shared/_Layout.cshtml]
+[D:/Zalim Cursos/Zalim Unan 2024/Semestre II/real/Escolar_net/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8keyh1bcad
